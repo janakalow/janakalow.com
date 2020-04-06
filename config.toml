@@ -1,6 +1,6 @@
 baseurl = "https://janakalow.netlify.com/"
 languageCode = "en-us"
-title = "My Awesome Site"
+title = "Janaka Low"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -11,9 +11,9 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "Janaka Low"
+    site_description = "Janaka's Personal Blog and Site"
+    location = "Penang, Malaysia"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
