@@ -40,3 +40,7 @@ theme = "hugo-minimalist-theme"
     instagram = ""
     github    = ""
     gplus     = ""
+
+[taxonomies]
+   category = "categories"
+

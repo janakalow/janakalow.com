@@ -1,8 +1,9 @@
 ---
 title: "Second post"
 date: 2020-04-06T11:09:25+08:00
+categories: [tech]
 draft: false
----
+---s
 
 ## This is my first post.
 
