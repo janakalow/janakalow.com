@@ -15,7 +15,7 @@ theme = "hugo-minimalist-theme"
     site_description = "Janaka's Personal Blog and Site"
     location = "Penang, Malaysia"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
+    avatar = "img/profile-janakalow.png"
     header_background = "img/desk.jpg"
     header_title = "Growing Lane"
     copyright = "Powered by [Hugo](http://gohugo.io)."
